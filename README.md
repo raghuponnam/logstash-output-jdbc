@@ -1,2 +1,2 @@
 # logstash-output-jdbc
-Logstash image with jdbc, output plugin and uuid filter
+Logstash oss with jdbc, output plugin and uuid filter
